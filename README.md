@@ -1,6 +1,8 @@
 # Test
 ====================
 
+My Website - derived from the Fraser Lab @ UCSF Template
+
 Technologies this website uses:  
 
     Jekyll  
