@@ -104,7 +104,13 @@ O Lavrynenko &#42; , **J Rodenfels &#42;**, M Carvalho, NA Dye, R Lafont, S Eato
 <i>Development</i> 142 (21), 3758-3768 32	(2015)"
   date: '201511'
   image: '/static/img/pub/Lav2015.png'
-  #pmid: ''
+  pmid: '26395481'
+  links:
+  - name: Remembering Suzanne
+    url: https://www.mpi-cbg.de/institute/remembering-suzanne/
+  - name: Shevchenko Lab @ MPI-CBG
+    url: https://www.mpi-cbg.de/research-groups/current-groups/andrej-shevchenko/research-focus/
+
 #  pmcid: ''
   #biorxiv: '2020.04.14.041772'
 #  pdf: '/static/pdf/publications/pan_2020.pdf'
@@ -119,9 +125,24 @@ O Lavrynenko &#42; , **J Rodenfels &#42;**, M Carvalho, NA Dye, R Lafont, S Eato
 <i>Genes & development</i> 28 (23), 2636-2651	50	(2014)"
   date: '201412'
   image: '/static/img/pub/Rodenfels_2014.png'
+  pmid: '25452274'
+  pmcid: 'PMC4248294'
+  links:
+    - name: Remembering Suzanne
+      url: https://www.mpi-cbg.de/institute/remembering-suzanne/
+    - name: Shevchenko Lab @ MPI-CBG
+      url: https://www.mpi-cbg.de/research-groups/current-groups/andrej-shevchenko/research-focus/
 
 - citation: "The genetic interactome of prohibitins: coordinated control of cardiolipin and phosphatidylethanolamine <br /> by conserved regulators in mitochondria <br />
 C Osman, M Haag, C Potting, **J Rodenfels**, PV Dip, FT Wieland, B Brügger, B Westermann, T Langer <br />
 <i>Journal of Cell Biology</i> 184 (4), 583-596 (2009)"
   date: '200902'
+  pmid: '19221197'
   image: '/static/img/pub/placeholder.png'
+  links:
+    - name: Westermann Lab @ Bayreuth University
+      url: https://www.zellbiologie.uni-bayreuth.de/en/index.html
+    - name: Osman Lab @ LMU Munich
+      url: https://www.cellbiology.bio.lmu.de/research_groups/osman/index.html
+    - name: Langer Lab @ MPI for Ageing
+      url: https://www.age.mpg.de/science/research-laboratories/langer/

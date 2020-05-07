@@ -1,16 +1,16 @@
 ---
-title: Publications 
+title: Publications
 layout: default
 group: publications
 ---
 
-<h1>Publications</h1>
-<div class="container-fluid">
-
+<div class="jumbotron paral" style="background-image:url('/static/img/education.jpg');">
+  <h1>{{page.title}}</h1>
+</div>
+<div class="container">
 {% for publication in site.data.publications %}
-<hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-<div style="font-size: 120% !important;">{{ publication.citation | markdownify }}</div>
+<div style="font-size: 100% !important;">{{ publication.citation | markdownify }}</div>
 	<div class="col-sm-6">
 		<img class = "img-fluid" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 200px;">
 	</div>
@@ -42,7 +42,7 @@ group: publications
 			{% endif %}
 
 			<!-- PDF -->
-			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+			<!--<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
 
 			<!-- Datasets - optional -->
 			{% if publication.data %}

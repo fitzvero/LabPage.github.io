@@ -3,7 +3,7 @@ title: Contact
 ---
 
 
-### Contact the Fraser Lab
+### Contact Jonathan
 
 Jonathan Rodenfels, Ph.D.
 Department of Molecular Biophysics and Biochemistry
