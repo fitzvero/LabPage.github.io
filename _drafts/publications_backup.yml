@@ -73,7 +73,6 @@
   image: '/static/img/pub/Rodenfels_2019.png'
   pmid: '30713074'
   pmcid: 'PMC6414255'
-  #zenodo: '10.5281/zenodo.1589353'
   #biorxiv: '2020.04.14.041772'
 #  pdf: '/static/pdf/publications/pan_2020.pdf'
   # pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
@@ -89,7 +88,7 @@
 P Heyn, H Salmonowicz, **J Rodenfels**, KM Neugebauer<br />
 <i>RNA Biology</i>,: Nov 18:1-9 (2016)"
   date: '201703'
-  image: '/static/img/pub/placeholder.png'
+#  image: '/static/img/pub/Rodenfels_2019.png'
   pmid: '27858508'
   pmcid: 'PMC5519242'
   #biorxiv: '2020.04.14.041772'
@@ -100,10 +99,10 @@ P Heyn, H Salmonowicz, **J Rodenfels**, KM Neugebauer<br />
       url: https://www.neugebauerlab.com/
 
 - citation: "The ecdysteroidome of Drosophila: influence of diet and development <br />
-O Lavrynenko &#42; , **J Rodenfels &#42;**, M Carvalho, NA Dye, R Lafont, S Eaton, A Shevchenko<br />
+O Lavrynenko , **J Rodenfels**, M Carvalho, NA Dye, R Lafont, S Eaton, A Shevchenko<br />
 <i>Development</i> 142 (21), 3758-3768 32	(2015)"
   date: '201511'
-  image: '/static/img/pub/Lav2015.png'
+#  image: '/static/img/pub/Rodenfels_2019.png'
   #pmid: ''
 #  pmcid: ''
   #biorxiv: '2020.04.14.041772'
@@ -114,14 +113,35 @@ O Lavrynenko &#42; , **J Rodenfels &#42;**, M Carvalho, NA Dye, R Lafont, S Eato
   #    url:
 #    - name: Shevchenko Lab @MPI-CBG
   #    url:
+
 - citation: "Production of systemically circulating Hedgehog by the intestine couples nutrition to growth and development <br />
 **J Rodenfels**, O Lavrynenko, S Ayciriex, JL Sampaio, M Carvalho, A Shevchenko, S Eaton <br />
 <i>Genes & development</i> 28 (23), 2636-2651	50	(2014)"
   date: '201412'
-  image: '/static/img/pub/Rodenfels_2014.png'
+#  image: '/static/img/pub/Rodenfels_2019.png'
+  #pmid: ''
+#  pmcid: ''
+  #biorxiv: '2020.04.14.041772'
+#  pdf: '/static/pdf/publications/pan_2020.pdf'
+  # pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
+  links:
+    - name: Eaton Lab @MPI-CBG
+      url:
+    - name: Shevchenko Lab @MPI-CBG
+      url:
 
-- citation: "The genetic interactome of prohibitins: coordinated control of cardiolipin and phosphatidylethanolamine <br /> by conserved regulators in mitochondria <br />
+- citation: "The genetic interactome of prohibitins: coordinated control of cardiolipin and phosphatidylethanolamine by conserved regulators in mitochondria<br />
 C Osman, M Haag, C Potting, **J Rodenfels**, PV Dip, FT Wieland, B Brügger, B Westermann, T Langer <br />
 <i>Journal of Cell Biology</i> 184 (4), 583-596 (2009)"
-  date: '200902'
-  image: '/static/img/pub/placeholder.png'
+date: '200902'
+#  image: '/static/img/pub/Rodenfels_2019.png'
+#pmid: ''
+#  pmcid: ''
+#biorxiv: '2020.04.14.041772'
+#  pdf: '/static/pdf/publications/pan_2020.pdf'
+# pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
+#links:
+  #- name: Eaton Lab @MPI-CBG
+  #  url:
+  #- name: Shevchenko Lab @MPI-CBG
+  #  url:

@@ -4,7 +4,7 @@ layout: default
 group: research
 ---
 
-<img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
+<img class="img-fluid mx-auto d-block" src="/static/img/Mito.png" alt="Fraser at UCSF, in molecular form">
 
 #  is focused on answering some of the central questions in protein biophysics and structural biology:
 

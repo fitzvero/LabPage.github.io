@@ -10,17 +10,17 @@
   link: "/publications"
   group: publications
 
-- name: team
-  link: "/members"
-  group: members
+#- name: team
+#  link: "/members"
+#  group: members
 
 - name: news
   link: "/news"
   group: news
 
-- name: join
-  link: "/join"
-  group: join
+#- name: join
+#  link: "/join"
+#  group: join
 
 - name: contact
   link: "/contact"
