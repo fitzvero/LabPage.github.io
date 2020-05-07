@@ -19,7 +19,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>JR</h4>
-  Associate Professor  <br>
+  <br>
   Department of Molecular Biophysics and Biochemistry <br>
   Yale University  <br>
   email: jonathan.rodenfels (at) yale.edu <br>
@@ -67,7 +67,7 @@ group: contact
   * **Option 3**:
   * **Option 4**:
 * #### by car:
-  * 
+  *
   *
 
 <img class="img-fluid" src="/static/img/XSA.png" alt="asd">
