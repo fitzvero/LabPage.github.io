@@ -14,7 +14,7 @@ Although work over the last decades has highlighted the principle(s) of how meta
 We are interested in studying these crucial aspects of biological systems using a combination of biophysical, genetic, molecular biology and imaging approaches that bridge the intersection between cell/developmental biology and biophysics.
 
 #### Some current and future work includes:
--	Develop approaches to quantify the overall energetics of biological systems based on calorimetry
+-	Develop calorimetry approaches to quantify the overall energetics of biological systems
 - Determine how energetics drive embryonic development and cell growth
 - Study the role of mitochondrial energetics and cell biology during early zebrafish development
 - Elucidate the role of energy dissipation on the accuracy and reproducibility of cellular signaling
