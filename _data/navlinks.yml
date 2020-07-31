@@ -14,9 +14,13 @@
   link: "/publications"
   group: publications
 
-- name: about me
-  link: "/aboutme"
-  group: aboutme
+- name: team
+  link: "/team"
+  group: team
+
+- name: join us
+  link: "/join"
+  group: join
 
 
 

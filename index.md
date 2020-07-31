@@ -1,9 +1,6 @@
 ---
-title: Jonathan Rodenfels
+title: Rodenfels Lab
 layout: home
 group: home
 ---
-
-### Jonathan Rodenfels
-
-My research focuses on understanding how energetics shape the behavior of biological systems. I am particularly interested in how cells and organisms partition their metabolic energy among the complex array of cellular processes that are necessary for life at any scale, from isolated biochemical networks to quiescent and highly proliferative cells to organismal growth and development.
+Our research focuses on understanding how energetics shape the behavior of biological systems. We are particularly interested in how cells and organisms partition their metabolic energy among the complex array of cellular processes that are necessary for life at any scale, from isolated biochemical networks to quiescent and highly proliferative cells to organismal growth and development.

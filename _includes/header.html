@@ -20,7 +20,7 @@
     {% if page.group == 'news' %}
     <link rel="alternate" type="application/atom+xml" title="News Feed" href="/news.xml">
     {% endif %}
-    
+
 
 
 
@@ -41,7 +41,8 @@
 
     <!-- Static navbar -->
     <nav class="navbar navbar-expand-md navbar-light" style="background-color: #e9ecef">
-        <a class="navbar-brand" href="/">{{site.name}}</a>
+
+          <a href="http://rodenfels.github.io"><img class="inline-block navb-icon" src="/static/img/lab2.png"></a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -54,8 +55,6 @@
                 <li class="nav-item"><a class="nav-link" href="{{link.link}}" alt="{{link.name}}"> {{link.name}}</a></li>
               {% endif %}
             {% endfor %}
-            <!-- <li><a href="https://sites.google.com/a/fraserlab.com/ucsf-private/" alt="Lab Private Area">private</a></li> -->
-          </ul>
         </div><!--/.nav-collapse -->
       </nav>
 
