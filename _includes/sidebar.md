@@ -6,7 +6,7 @@ title: Contact
 ### Contact Jonathan
 
 Jonathan Rodenfels, Ph.D.
-Department of Molecular Biophysics and Biochemistry
-Yale University
+Max Planck Institute of Molecular Cell Biology and Genetics
+Dresden, Germany
 
-email: jonathan.rodenfels (#!) yale.edu
+email: rodenfels (#!) mpi-cbg.de
