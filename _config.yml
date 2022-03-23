@@ -1,7 +1,7 @@
 name: "Fumasoni Lab | @IGC (from May 2021)"
 description: "Marco Fumasoni, The Genome Maintenance and Evolution lab"
 
-url: "hhttps://fitzvero.github.io/LabPage.github.io/"
+url: "https://fitzvero.github.io/LabPage.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]

@@ -2,9 +2,9 @@
   link: "/"
   group: home
 
-- name: news
-  link: "/news"
-  group: news
+#- name: news
+#  link: "/news"
+#  group: news
 
 - name: research
   link: "/research"
