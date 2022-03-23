@@ -1,7 +1,7 @@
-name: "Rodenfels Lab | @MPI-CBG (from Jan. 2021)"
-description: "Jonathan Rodenfels, Rodenfels lab, Energetics of biological systems, biocalorimetry, metabolism"
+name: "Fumasoni Lab | @IGC (from May 2021)"
+description: "Marco Fumasoni, The Genome Maintenance and Evolution lab"
 
-url: "https://rodenfels.github.io"
+url: "hhttps://fitzvero.github.io/LabPage.github.io/"
 
 paginate: 5
 plugins: [jekyll-paginate]
