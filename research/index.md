@@ -16,4 +16,4 @@ We take advantage of S.cerevisiae as a model eukaryotic organism and we investig
 #### Open Science
 We do our best to promote Open Science. Below are a number of initiatives and associations we support:
 
-![alt text](https://fitzvero.github.io/LabPage.github.io/static/img/FumaLab_box.png?raw=true)
+![alt text](https://fitzvero.github.io/static/img/FumaLab_box.png?raw=true)
